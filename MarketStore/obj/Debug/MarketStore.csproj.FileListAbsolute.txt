@@ -1,0 +1,6 @@
+C:\Users\Incognito\source\repos\MarketStore\MarketStore\bin\Debug\MarketStore.exe.config
+C:\Users\Incognito\source\repos\MarketStore\MarketStore\bin\Debug\MarketStore.exe
+C:\Users\Incognito\source\repos\MarketStore\MarketStore\bin\Debug\MarketStore.pdb
+C:\Users\Incognito\source\repos\MarketStore\MarketStore\obj\Debug\MarketStore.csprojAssemblyReference.cache
+C:\Users\Incognito\source\repos\MarketStore\MarketStore\obj\Debug\MarketStore.exe
+C:\Users\Incognito\source\repos\MarketStore\MarketStore\obj\Debug\MarketStore.pdb
